@@ -1,2 +1,2 @@
 # SimonGame
-This Game is made by using HTML,CSS,Javascript,JQuery. 
+This Game is developed by using HTML,CSS,Javascript,JQuery. 
